@@ -1,0 +1,14 @@
+@media (min-width: 992px) {
+    .myCarousel{
+        max-width: 600px;
+        margin: auto;
+    }
+  .wrapper
+    .wrapper-holder
+    header
+    .header-content
+    .myCarousel
+    .carousel-indicators {
+    bottom: -30%;
+  }
+}
